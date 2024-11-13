@@ -1,2 +1,2 @@
 # calendar-app2024
-internship interview questions
+internship questions
